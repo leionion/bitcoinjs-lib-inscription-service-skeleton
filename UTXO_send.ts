@@ -14,6 +14,8 @@ const RECEIVEADDRESS = 'tb1pr62qc83slv3zy7mjaygeq2t2033hvslgljnr6lxylephys646ehq
 dotenv.config();
 Bitcoin.initEccLib(ecc);
 
+
+
 const networkType: string = networkConfig.networkType;
 const seed: string = process.env.MNEMONIC as string;
 // const privateKey: string = process.env.PRIVATE_KEY as string;

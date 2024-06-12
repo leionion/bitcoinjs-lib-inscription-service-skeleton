@@ -11,6 +11,7 @@ const TESTNET_FEERATE = 20;
 const SPLIT_UTXO_LIMIT = 30000;
 const SPLIT_COUNT = 1;
 
+
 dotenv.config();
 Bitcoin.initEccLib(ecc);
 

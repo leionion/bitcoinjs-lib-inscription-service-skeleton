@@ -22,7 +22,7 @@ This guide provides explaining how to utilize them effectively for managing UTXO
 
 ## Installation
 
-To set up and run this project locally, follow these steps:
+To set up and run this project locally, follow these steps: 
 
 1. **Clone the Repository**: First, clone this repository to your local machine using:
    ```bash
